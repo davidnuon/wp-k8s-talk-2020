@@ -1,4 +1,4 @@
-# WordPress, Kubernetes and You
+# Kubernetes, WordPress and You
 
 These are the notes for the talk I gave at WordPress LA, Long Beach Chapter. 
 
