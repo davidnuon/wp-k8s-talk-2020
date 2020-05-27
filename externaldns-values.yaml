@@ -1,0 +1,9 @@
+rbac:
+        create: true
+
+provider: digitalocean
+digitalocean:
+        apiToken: XXXXXXXXXXXXXXXXXXXXXXXXXXX
+        interval: "1m"
+        policy: sync # or upsert-only
+        domainFilters: [ 'ahoy.dev' ]
